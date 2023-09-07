@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif
+
 <!--
 **mostafaeng/mostafaeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

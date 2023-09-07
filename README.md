@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Hey there, I'm mostafa. I'm a embedded software engineer.](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+
 <!--
 **mostafaeng/mostafaeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
